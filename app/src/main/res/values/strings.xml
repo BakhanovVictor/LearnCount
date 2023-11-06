@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question1">Москва - столица России?</string>
+    <string name="question2">Солнце - это звезда?</string>
+    <string name="question3">Луна - это планета?</string>
+    <string name="question4">HTML - это язык программирования?</string>
+    <string name="question5">В сутках 24 часа?</string>
+
+</resources>
